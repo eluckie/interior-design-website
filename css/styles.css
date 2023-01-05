@@ -1,8 +1,18 @@
 img.intro {
-  float:center;
+  float:left;
 }
 
 .column {
   width:30%;
   float:left;
+}
+
+.sidebar {
+  width:200px;
+  float:right;
+  background-color:green;
+}
+
+#photo {
+  width:30%;
 }
