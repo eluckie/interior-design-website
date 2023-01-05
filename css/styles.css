@@ -1,5 +1,5 @@
 img.intro {
-  float:left;
+  width:60%;
 }
 
 .column {
@@ -8,11 +8,11 @@ img.intro {
 }
 
 .sidebar {
-  width:200px;
+  width:30%;
   float:right;
   background-color:green;
 }
 
 #photo {
-  width:30%;
+  width:200px;
 }
