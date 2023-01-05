@@ -2,9 +2,33 @@ img.intro {
   width:60%;
 }
 
-.column {
+.column1 {
   width:30%;
   float:left;
+  margin:10px;
+  border:4px black solid;
+  padding:4px;
+  background-color:rgb(164, 245, 164);
+  box-sizing:border-box;
+}
+.column2 {
+  width:30%;
+  float:left;
+  margin:10px;
+  border:4px black solid;
+  padding:4px;
+  background-color:rgb(84, 200, 84);
+  box-sizing:border-box;
+}
+
+.column3 {
+  width:30%;
+  float:left;
+  margin:10px;
+  border:4px black solid;
+  padding:4px;
+  background-color:rgb(19, 215, 19);
+  box-sizing:border-box;
 }
 
 .sidebar {
@@ -15,6 +39,7 @@ img.intro {
 
 #photo {
   width:200px;
+  float:center;
 }
 
 h1 {
@@ -25,9 +50,19 @@ h1 {
 h4 {
   font-family:cursive;
   color:rgb(45, 129, 45);
+  text-align:center;
 }
 
 h3 {
-  font-family:cursive;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   color:rgb(26, 217, 26)
+}
+
+li {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size:large;
+}
+
+p {
+  text-align:center;
 }
