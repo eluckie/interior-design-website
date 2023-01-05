@@ -41,7 +41,8 @@ img.intro {
 
 #photo {
   width:200px;
-  float:center;
+  display:block;
+  margin:auto;
 }
 
 h1 {
